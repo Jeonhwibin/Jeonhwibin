@@ -1,4 +1,4 @@
-# 전휘빈 since 1997.02~
+# 전휘빈 since 1997~
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=%20hwibin's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
